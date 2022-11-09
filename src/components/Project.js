@@ -2,7 +2,7 @@ import React from 'react';
 
 const Project = (project) => {
     return(
-        <article className="">
+        <article className='style1'>
             <span className="image">
                 <img src={project.img_src} alt={project.img_alt} />
             </span>

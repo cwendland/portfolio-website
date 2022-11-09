@@ -10,8 +10,8 @@ const Header = () => {
                 <li><a href="assets/wendland.html" target="_blank">Resume</a></li>
             </ul>
             <h3>Contact Me</h3>
-                <p><strong>Email</strong><br>chriswendland@gmail.com</br></p>
-                <p><strong>Phone</strong><br>949·910·4342</br></p>
+                <p><strong>Email</strong>chriswendland@gmail.com</p>
+                <p><strong>Phone</strong>949·910·4342</p>
             </nav>
   );
 };
