@@ -8,9 +8,10 @@ const Navigation = ({handleClick}) => {
                 {/*conditionally render the component off of is visible, else just a button*/}
                 <h1>Links</h1>
                 <ul>
-                    <li><a href="https://github.com/cwendland" target="_blank">Full Portfolio</a></li>
-                    <li><a href="https://www.linkedin.com/in/cwendland/" target="_blank">LinkedIn</a></li>
-                    <li><a href="assets/wendland.html" target="_blank">Resume</a></li>
+                    <li><a href='/'>Home</a></li>
+                    <li><a href="https://github.com/cwendland">Full Portfolio</a></li>
+                    <li><a href="https://www.linkedin.com/in/cwendland/">LinkedIn</a></li>
+                    <li><a href="/resume">Resume</a></li>
                 </ul>
                 <h3>Contact Me</h3>
                     <p><strong>Email</strong><p>chriswendland@gmail.com</p></p>
