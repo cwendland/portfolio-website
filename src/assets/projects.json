@@ -1,9 +1,22 @@
 [
   {
     "name": "TEST NAME",
-    "img_src": "../public/logo192.png",
-    "img_alt": "TEST",
     "desc": "TEST DESC",
     "git": "https://github.com/cwendland"
+  },
+  {
+    "name": "Wordalle",
+    "desc": "Co-Lead",
+    "git": "https://github.com/jkalili/Wordalle"
+  },
+  {
+    "name": "Food Adventure",
+    "desc": "Lead",
+    "git": "https://github.com/cindyung56/food-adventure"
+  },
+  {
+    "name": "Employee CMS",
+    "desc": "Lead",
+    "git": "https://github.com/cwendland/employee-CMS"
   }
 ]

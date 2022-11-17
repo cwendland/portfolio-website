@@ -16,7 +16,9 @@ const Main = () => {
                     <p>Full-Stack Web Development · <i>Complete 2022</i></p>
                 </header>
                 <h2>Recent Works</h2>
-                {projectData.map((project) => <Project key={project.name} project={project}/>)}
+                <section className="tiles">
+                    {projectData.map((project) => <Project key={project.name} project={project}/>)}
+                </section>
             </div>
             </div>
     )

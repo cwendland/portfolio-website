@@ -5,7 +5,6 @@ const Navigation = ({handleClick}) => {
     return (
         <nav id="menu">
             <div className="inner">
-                {/*conditionally render the component off of is visible, else just a button*/}
                 <h1>Links</h1>
                 <ul>
                     <li><a href='/'>Home</a></li>
